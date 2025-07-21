@@ -54,3 +54,13 @@ Spam_Message_detection </br>
    cd Spam_Message_detection
 
 
+## Here some local deployment images
+
+<img width="1917" height="799" alt="Screenshot 2025-07-21 204802" src="https://github.com/user-attachments/assets/f1edf1d2-6029-43fd-ad33-2a42eee2fe53" />
+
+
+
+<img width="1917" height="773" alt="Screenshot 2025-07-21 204818" src="https://github.com/user-attachments/assets/f9a26448-86b6-4d68-8a15-778afec755ec" />
+
+
+<img width="1917" height="753" alt="Screenshot 2025-07-21 205323" src="https://github.com/user-attachments/assets/b3ddd52e-c985-4af0-8142-a2515dcc8276" />
